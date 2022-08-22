@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Luke Angelini
-description: Luke's Blog
+title: Luke's Blog
+description: AP Computer Science Principles Fastpages
 github_username: Luke-Angelini
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Luke1"
