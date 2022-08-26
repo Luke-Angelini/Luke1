@@ -49,7 +49,20 @@
   
 
   
-      ,"page1": {
+
+  
+      ,"page2": {
+          "title": "Vocab",
+          "content": "Vocab List: . Def: Defines a function | |",
+          "url": "https://luke-angelini.github.io/Luke1/vocab/",
+          "relUrl": "/vocab/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page3": {
           "title": "About Me",
           "content": "This website was created by Luke Angelini, a student of Del Norte High School studying AP Computer Science Principles. .",
           "url": "https://luke-angelini.github.io/Luke1/about/",
@@ -62,13 +75,8 @@
   
 
   
-  
 
   
-
-  
-  
-
   
 
   
@@ -81,7 +89,10 @@
   
 
   
-      ,"page10": {
+  
+
+  
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://luke-angelini.github.io/Luke1/robots.txt",
