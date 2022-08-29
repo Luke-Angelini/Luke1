@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": ". toc: true layout: notebook description: &quot;Showing uses for Bash.&quot; categories: [markdown] . title: &quot;Bash Check&quot; . python --version python2 --version . Python 3.9.12 Python 2.7.18 . conda list . jupyter --version jupyter kernelspec list . Selected Jupyter core packages... IPython : 8.4.0 ipykernel : 6.15.1 ipywidgets : not installed jupyter_client : 7.3.4 jupyter_core : 4.11.1 jupyter_server : not installed jupyterlab : not installed nbclient : not installed nbconvert : not installed nbformat : not installed notebook : not installed qtconsole : not installed traitlets : 5.3.0 Available kernels: bash /home/luke_angelini/.local/share/jupyter/kernels/bash javascript /home/luke_angelini/.local/share/jupyter/kernels/javascript python3 /home/luke_angelini/.local/share/jupyter/kernels/python3 . java --version . openjdk 11.0.16 2022-07-19 OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04) OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode, sharing) .",
-            "url": "https://luke-angelini.github.io/Luke1/2022/08/28/bash-test.html",
-            "relUrl": "/2022/08/28/bash-test.html",
+            "title": "Bash Checks",
+            "content": "python --version python2 --version . Python 3.9.12 Python 2.7.18 . conda list . jupyter --version jupyter kernelspec list . Selected Jupyter core packages... IPython : 8.4.0 ipykernel : 6.15.1 ipywidgets : not installed jupyter_client : 7.3.4 jupyter_core : 4.11.1 jupyter_server : not installed jupyterlab : not installed nbclient : not installed nbconvert : not installed nbformat : not installed notebook : not installed qtconsole : not installed traitlets : 5.3.0 Available kernels: bash /home/luke_angelini/.local/share/jupyter/kernels/bash javascript /home/luke_angelini/.local/share/jupyter/kernels/javascript python3 /home/luke_angelini/.local/share/jupyter/kernels/python3 . java --version . openjdk 11.0.16 2022-07-19 OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04) OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode, sharing) .",
+            "url": "https://luke-angelini.github.io/Luke1/jupyter/2022/08/28/bash-test.html",
+            "relUrl": "/jupyter/2022/08/28/bash-test.html",
             "date": " • Aug 28, 2022"
         }
         
@@ -24,10 +24,10 @@
   
     
         ,"post2": {
-            "title": "Title",
-            "content": ". toc: true layout: post description: &quot;Hacks&quot; categories: [markdown] . title: &quot;Hello World&quot; . print (&quot;Hello World&quot;) . Hello World .",
-            "url": "https://luke-angelini.github.io/Luke1/2022/08/21/Hello-World.html",
-            "relUrl": "/2022/08/21/Hello-World.html",
+            "title": "Hello World",
+            "content": "print (&quot;Hello World&quot;) . Hello World .",
+            "url": "https://luke-angelini.github.io/Luke1/jupyter/2022/08/21/Hello-World.html",
+            "relUrl": "/jupyter/2022/08/21/Hello-World.html",
             "date": " • Aug 21, 2022"
         }
         
