@@ -588,8 +588,11 @@ Luke Angelini
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">dog_list</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"German Shephard"</span><span class="p">,</span> <span class="s2">"Labrador Retriever"</span><span class="p">,</span> <span class="s2">"Great Dane"</span><span class="p">,</span> <span class="s2">"Chihuahau"</span><span class="p">,</span> <span class="s2">"Poodle"</span><span class="p">,</span> <span class="s2">"Pitbull"</span><span class="p">]</span>
+
+<span class="c1">#The i variable represents a value in the index dog_list. The for loop prints until the list is complete.</span>
 <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">dog_list</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"That's all the dogs I can remember."</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -608,6 +611,52 @@ Great Dane
 Chihuahau
 Poodle
 Pitbull
+That's all the dogs I can remember.
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">backward</span><span class="p">(</span><span class="n">p</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">p</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">p</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">p</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">==</span> <span class="n">p</span>
+
+<span class="n">word</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"Enter a word: "</span><span class="p">)</span>
+<span class="c1">#A word is collected with the input function and then put into the backward function below</span>
+<span class="c1">#.casefold() can be put after a variable to convert it to all lowercase</span>
+<span class="k">if</span> <span class="n">backward</span><span class="p">(</span><span class="n">word</span><span class="o">.</span><span class="n">casefold</span><span class="p">())</span> <span class="ow">is</span> <span class="kc">True</span><span class="p">:</span>
+<span class="c1">#the p[::-1] reverses the text of the input word and the rest of the function prints the word and returns the word as equal to p</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="si">{0}</span><span class="s2"> is the same forwards and backwards"</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">word</span><span class="p">))</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="si">{0}</span><span class="s2"> is not spelled the same forwards and backwards"</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">word</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>f
+f
+f is the same forwards and backwards
 </pre>
 </div>
 </div>
