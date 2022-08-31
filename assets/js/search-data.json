@@ -102,7 +102,7 @@
     
         ,"post9": {
             "title": "First Markdown Post",
-            "content": "List of Items . First item | Second item | Third item | . Example Boxes . . Be careful . Coding can often come with bugs Example Table . Column 1 Column 2 . Comp Sci | English | . Teaches Coding Skills | Teaches Grammar | .",
+            "content": "List of Items . First item | Second item | Third item | . Example Boxes . . Be careful . Coding can often come with bugs Example Table . Column 1 Column 2 . Comp Sci | English | . Teaches Coding Skills | Teaches Grammar Skills | .",
             "url": "https://luke-angelini.github.io/Luke1/markdown/2022/08/22/markdown.html",
             "relUrl": "/markdown/2022/08/22/markdown.html",
             "date": " • Aug 22, 2022"
