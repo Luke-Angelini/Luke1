@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: "Hacks"
+description: "Planning and review for my partner and I's applab projects"
 categories: [markdown, week 3]
 title: "Applab Quiz Planning"
 ---
