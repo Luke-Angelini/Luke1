@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Java Table",
-            "content": "// define an HTML conversion “method” associated with Classroom Classroom.prototype._toHtml = function() { // HTML Style is build using inline structure var style = ( “display:inline-block;” + “background:black;” + “border: 2px solid grey;” + “box-shadow: 0.8em 0.4em 0.4em grey;” ); . // HTML Body of Table is build as a series of concatenations (+=) var body = “”; // Heading for Array Columns body += “&lt;tr&gt;”; body += “&lt;th&gt;&quot; + &quot;Name&quot; + &quot;&lt;/th&gt;”; body += “&lt;th&gt;&quot; + &quot;GitHub ID&quot; + &quot;&lt;/th&gt;”; body += “&lt;th&gt;&quot; + &quot;Class Of&quot; + &quot;&lt;/th&gt;”; body += “&lt;th&gt;&quot; + &quot;Role&quot; + &quot;&lt;/th&gt;”; body += “&lt;/tr&gt;”; // Data of Array, iterate through each row of compsci.classroom for (var row of compsci.classroom) { // tr for each row, a new line body += “&lt;tr&gt;”; // td for each column of data body += “&lt;td&gt;” + row.name + “&lt;/td&gt;”; body += “&lt;td&gt;” + row.ghID + “&lt;/td&gt;”; body += “&lt;td&gt;” + row.classOf + “&lt;/td&gt;”; body += “&lt;td&gt;” + row.role + “&lt;/td&gt;”; // tr to end line body += “&lt;tr&gt;”; } . // Build and HTML fragment of div, table, table body return ( “&lt;div style=&#39;&quot; + style + &quot;&#39;&gt;” + “&lt;table&gt;” + body + “&lt;/table&gt;” + “&lt;/div&gt;” ); . }; . // IJavaScript HTML processor receive parameter of defined HTML $$.html(compsci._toHtml()); .",
-            "url": "https://luke-angelini.github.io/Luke1/2022/09/25/java-table.html",
-            "relUrl": "/2022/09/25/java-table.html",
+            "title": "HTML and Javascript",
+            "content": "Spanish Conjugations . Verb Ending Verbs . AR | Nadar | . Andar | Mejorar | . ER | Comer | . Correr | Querrer | IR | Dormir | . Morir | Cubrir | . &lt;/table&gt; .",
+            "url": "https://luke-angelini.github.io/Luke1/markdown/week%205/2022/09/25/java-table.html",
+            "relUrl": "/markdown/week%205/2022/09/25/java-table.html",
             "date": " • Sep 25, 2022"
         }
         
@@ -251,7 +251,7 @@
   
       ,"page4": {
           "title": "Submenu",
-          "content": "Submenu Links .   |   | .",
+          "content": "Submenu Links . Java Table | Javascript Basics | .",
           "url": "https://luke-angelini.github.io/Luke1/submenu/",
           "relUrl": "/submenu/",
           "date": ""
