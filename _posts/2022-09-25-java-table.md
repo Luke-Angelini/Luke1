@@ -1,45 +1,42 @@
-// define an HTML conversion "method" associated with Classroom
-Classroom.prototype._toHtml = function() {
-  // HTML Style is build using inline structure
-  var style = (
-    "display:inline-block;" +
-    "background:black;" +
-    "border: 2px solid grey;" +
-    "box-shadow: 0.8em 0.4em 0.4em grey;"
-  );
+---
+toc: true
+layout: post
+description: Using HTML with Javascript
+categories: [markdown, Week 5]
+title: HTML and Javascript
+---
 
-  // HTML Body of Table is build as a series of concatenations (+=)
-  var body = "";
-  // Heading for Array Columns
-  body += "<tr>";
-  body += "<th><mark>" + "Name" + "</mark></th>";
-  body += "<th><mark>" + "GitHub ID" + "</mark></th>";
-  body += "<th><mark>" + "Class Of" + "</mark></th>";
-  body += "<th><mark>" + "Role" + "</mark></th>";
-  body += "</tr>";
-  // Data of Array, iterate through each row of compsci.classroom 
-  for (var row of compsci.classroom) {
-    // tr for each row, a new line
-    body += "<tr>";
-    // td for each column of data
-    body += "<td>" + row.name + "</td>";
-    body += "<td>" + row.ghID + "</td>";
-    body += "<td>" + row.classOf + "</td>";
-    body += "<td>" + row.role + "</td>";
-    // tr to end line
-    body += "<tr>";
-  }
+## Spanish Conjugations
 
-   // Build and HTML fragment of div, table, table body
-  return (
-    "<div style='" + style + "'>" +
-      "<table>" +
-        body +
-      "</table>" +
-    "</div>"
-  );
-
-};
-
-// IJavaScript HTML processor receive parameter of defined HTML 
-$$.html(compsci._toHtml());
+<table id="mine" style = "width:100%">
+    <tr>
+        <th>Verb Ending</th>
+        <th>Verbs</th>
+    </tr>
+    <tr>
+        <td rowspan="3">AR</td>
+        <td>Nadar</td>
+    </tr>
+    <tr>
+        <td>Andar</td>
+    <tr>
+        <td>Mejorar</td>
+    </tr>
+    <tr>
+        <td rowspan="3">ER</td>
+        <td>Comer</td>
+    </tr>
+    <tr>
+        <td>Correr</td>
+    <tr>
+        <td>Querrer</td>
+    <tr>
+        <td rowspan="3">IR</td>
+        <td>Dormir</td>
+    </tr>
+    <tr>
+        <td>Morir</td>
+    <tr>
+        <td>Cubrir</td>
+    </tr>
+</table>
