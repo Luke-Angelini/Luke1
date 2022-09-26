@@ -228,10 +228,10 @@
 
   
       ,"page4": {
-          "title": "Frontend",
-          "content": "// define an HTML conversion “method” associated with Classroom Classroom.prototype._toHtml = function() { // HTML Style is build using inline structure var style = ( “display:inline-block;” + “border: 2px solid grey;” + “box-shadow: 0.8em 0.4em 0.4em grey;” ); . // HTML Body of Table is build as a series of concatenations (+=) var body = “”; // Heading for Array Columns body += “&lt;tr&gt;”; body += “&lt;th&gt;&quot; + &quot;Name&quot; + &quot;&lt;/th&gt;”; body += “&lt;th&gt;&quot; + &quot;GitHub ID&quot; + &quot;&lt;/th&gt;”; body += “&lt;th&gt;&quot; + &quot;Class Of&quot; + &quot;&lt;/th&gt;”; body += “&lt;th&gt;&quot; + &quot;Role&quot; + &quot;&lt;/th&gt;”; body += “&lt;/tr&gt;”; // Data of Array, iterate through each row of compsci.classroom for (var row of compsci.classroom) { // tr for each row, a new line body += “&lt;tr&gt;”; // td for each column of data body += “&lt;td&gt;” + row.name + “&lt;/td&gt;”; body += “&lt;td&gt;” + row.ghID + “&lt;/td&gt;”; body += “&lt;td&gt;” + row.classOf + “&lt;/td&gt;”; body += “&lt;td&gt;” + row.role + “&lt;/td&gt;”; // tr to end line body += “&lt;tr&gt;”; } . // Build and HTML fragment of div, table, table body return ( “&lt;div style=&#39;&quot; + style + &quot;&#39;&gt;” + “&lt;table&gt;” + body + “&lt;/table&gt;” + “&lt;/div&gt;” ); . }; . // IJavaScript HTML processor receive parameter of defined HTML fragment $$.html(compsci._toHtml()); .",
-          "url": "https://luke-angelini.github.io/Luke1/frontend/",
-          "relUrl": "/frontend/",
+          "title": "Submenu",
+          "content": "Submenu Links .   |   | .",
+          "url": "https://luke-angelini.github.io/Luke1/submenu/",
+          "relUrl": "/submenu/",
           "date": ""
       }
       
