@@ -6,8 +6,6 @@ categories: [markdown, Week 5]
 title: HTML and Javascript
 ---
 
-## Spanish Conjugations
-
 <table id="mine" style = "width:100%">
     <tr>
         <th>Verb Ending</th>
