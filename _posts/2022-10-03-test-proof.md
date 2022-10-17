@@ -8,7 +8,7 @@ title: "AP Classroom Tests"
 
 ## Completed Quizzes
 
-![]({{ site.baseurl }}/images/complete_quiz3.png)
+![]({{ site.baseurl }}/images/complete_quiz3.PNG)
 
 # Challenges: Week 6
 
