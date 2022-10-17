@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "Lists, Dictionaries, Iteration",
+            "title": "First API",
             "content": "import requests url = &quot;https://random-math-problem.p.rapidapi.com/random-problem&quot; querystring = {&quot;type&quot;:&quot;html&quot;} headers = { &quot;X-RapidAPI-Key&quot;: &quot;8677538c65mshfd1d85d7adf047fp17a8a1jsn7a54a04df28c&quot;, &quot;X-RapidAPI-Host&quot;: &quot;random-math-problem.p.rapidapi.com&quot; } response = requests.request(&quot;GET&quot;, url, headers=headers, params=querystring) title = response.json().get(&#39;title&#39;) problem = response.json().get(&#39;problem&#39;) print(&quot;Printing response.text&quot;) print(response.text) . ModuleNotFoundError Traceback (most recent call last) c: Users Luke Angelini vscode Luke1 _notebooks 2022-10-13-First-API.ipynb Cell 2 in &lt;cell line: 1&gt;() -&gt; &lt;a href=&#39;vscode-notebook-cell:/c%3A/Users/Luke%20Angelini/vscode/Luke1/_notebooks/2022-10-13-First-API.ipynb#W1sZmlsZQ%3D%3D?line=0&#39;&gt;1&lt;/a&gt; import requests &lt;a href=&#39;vscode-notebook-cell:/c%3A/Users/Luke%20Angelini/vscode/Luke1/_notebooks/2022-10-13-First-API.ipynb#W1sZmlsZQ%3D%3D?line=2&#39;&gt;3&lt;/a&gt; url = &#34;https://random-math-problem.p.rapidapi.com/random-problem&#34; &lt;a href=&#39;vscode-notebook-cell:/c%3A/Users/Luke%20Angelini/vscode/Luke1/_notebooks/2022-10-13-First-API.ipynb#W1sZmlsZQ%3D%3D?line=4&#39;&gt;5&lt;/a&gt; querystring = {&#34;type&#34;:&#34;html&#34;} ModuleNotFoundError: No module named &#39;requests&#39; . print(&quot;Printing response.json()&quot;) print(response.json()) . Organized Question . Each question has a title and a problem. The title is the name of the project, and the problem stores the actual question. Printing each thing will allow the user to see the specific HTML in the . print(&quot;Printing a title&quot;) print(title) . print(&quot;Printing a problem&quot;) print(problem) .",
-            "url": "https://luke-angelini.github.io/Luke1/jupyter/week%207/2022/10/13/First-API.html",
-            "relUrl": "/jupyter/week%207/2022/10/13/First-API.html",
+            "url": "https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html",
+            "relUrl": "/python/week7/2022/10/13/First-API.html",
             "date": " • Oct 13, 2022"
         }
         
