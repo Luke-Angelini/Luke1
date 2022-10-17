@@ -8,8 +8,8 @@
 <meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="First API" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Random math problems with an API." />
-<meta property="og:description" content="Random math problems with an API." />
+<meta name="description" content="Random math problems with an API" />
+<meta property="og:description" content="Random math problems with an API" />
 <link rel="canonical" href="https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html" />
 <meta property="og:url" content="https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html" />
 <meta property="og:site_name" content="Luke’s Blog" />
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="First API" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-10-13T00:00:00-05:00","datePublished":"2022-10-13T00:00:00-05:00","description":"Random math problems with an API.","headline":"First API","mainEntityOfPage":{"@type":"WebPage","@id":"https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html"},"url":"https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-10-13T00:00:00-05:00","datePublished":"2022-10-13T00:00:00-05:00","description":"Random math problems with an API","headline":"First API","mainEntityOfPage":{"@type":"WebPage","@id":"https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html"},"url":"https://luke-angelini.github.io/Luke1/python/week7/2022/10/13/First-API.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/Luke1/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://luke-angelini.github.io/Luke1/feed.xml" title="Luke's Blog" /><link rel="shortcut icon" type="image/x-icon" href="/Luke1/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -73,7 +73,7 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">First API</h1><p class="page-description">Random math problems with an API.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2022-10-13T00:00:00-05:00" itemprop="datePublished">
+    <h1 class="post-title p-name" itemprop="name headline">First API</h1><p class="page-description">Random math problems with an API</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2022-10-13T00:00:00-05:00" itemprop="datePublished">
         Oct 13, 2022
       </time>
        • <span class="read-time" title="Estimated read time">
@@ -173,16 +173,10 @@ window.onload = wrap_img;
 
 <div class="output_area">
 
-<div class="output_subarea output_text output_error">
-<pre>
-<span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
-<span class="ansi-red-intense-fg ansi-bold">ModuleNotFoundError</span>                       Traceback (most recent call last)
-<span class="ansi-green-intense-fg ansi-bold">c:\Users\Luke Angelini\vscode\Luke1\_notebooks\2022-10-13-First-API.ipynb Cell 2</span> in <span class="ansi-cyan-fg">&lt;cell line: 1&gt;</span><span class="ansi-blue-intense-fg ansi-bold">()</span>
-<span class="ansi-green-intense-fg ansi-bold">----&gt; &lt;a href='vscode-notebook-cell:/c%3A/Users/Luke%20Angelini/vscode/Luke1/_notebooks/2022-10-13-First-API.ipynb#W1sZmlsZQ%3D%3D?line=0'&gt;1&lt;/a&gt;</span> import requests
-<span class="ansi-green-fg">      &lt;a href='vscode-notebook-cell:/c%3A/Users/Luke%20Angelini/vscode/Luke1/_notebooks/2022-10-13-First-API.ipynb#W1sZmlsZQ%3D%3D?line=2'&gt;3&lt;/a&gt;</span> url = "https://random-math-problem.p.rapidapi.com/random-problem"
-<span class="ansi-green-fg">      &lt;a href='vscode-notebook-cell:/c%3A/Users/Luke%20Angelini/vscode/Luke1/_notebooks/2022-10-13-First-API.ipynb#W1sZmlsZQ%3D%3D?line=4'&gt;5&lt;/a&gt;</span> querystring = {"type":"html"}
-
-<span class="ansi-red-intense-fg ansi-bold">ModuleNotFoundError</span>: No module named 'requests'</pre>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Printing response.text
+{"title":"&lt;h2&gt;Inverse Digit Sum II&lt;\/h2&gt;","problem":"&lt;div class=\"problem_content\" role=\"problem\"&gt;\r\n&lt;p&gt;Writing down the numbers which have a digit sum of 10 in ascending order, we get:\n$19, 28, 37, 46,55,64,73,82,91,109, 118,\\dots$&lt;\/p&gt;\n&lt;p&gt;\nLet $f(n,m)$ be the $m^{\\text{th}}$ occurrence of the digit sum $n$. For example, $f(10,1)=19$, $f(10,10)=109$ and $f(10,100)=1423$.&lt;\/p&gt;\n&lt;p&gt;\nLet $\\displaystyle S(k)=\\sum_{n=1}^k f(n^3,n^4)$. For example $S(3)=7128$ and $S(10)\\equiv 32287064 \\mod 1\\,000\\,000\\,007$.&lt;\/p&gt;\n&lt;p&gt;\nFind $S(10\\,000)$ modulo $1\\,000\\,000\\,007$.&lt;\/p&gt;\n&lt;\/div&gt;"}
+</pre>
 </div>
 </div>
 
@@ -204,6 +198,21 @@ window.onload = wrap_img;
 </pre></div>
 
     </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Printing response.json()
+{'title': '&lt;h2&gt;Inverse Digit Sum II&lt;/h2&gt;', 'problem': '&lt;div class="problem_content" role="problem"&gt;\r\n&lt;p&gt;Writing down the numbers which have a digit sum of 10 in ascending order, we get:\n$19, 28, 37, 46,55,64,73,82,91,109, 118,\\dots$&lt;/p&gt;\n&lt;p&gt;\nLet $f(n,m)$ be the $m^{\\text{th}}$ occurrence of the digit sum $n$. For example, $f(10,1)=19$, $f(10,10)=109$ and $f(10,100)=1423$.&lt;/p&gt;\n&lt;p&gt;\nLet $\\displaystyle S(k)=\\sum_{n=1}^k f(n^3,n^4)$. For example $S(3)=7128$ and $S(10)\\equiv 32287064 \\mod 1\\,000\\,000\\,007$.&lt;/p&gt;\n&lt;p&gt;\nFind $S(10\\,000)$ modulo $1\\,000\\,000\\,007$.&lt;/p&gt;\n&lt;/div&gt;'}
+</pre>
+</div>
+</div>
+
 </div>
 </div>
 
@@ -236,6 +245,21 @@ window.onload = wrap_img;
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Printing a title
+&lt;h2&gt;Inverse Digit Sum II&lt;/h2&gt;
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
 </div>
     
 
@@ -251,6 +275,30 @@ window.onload = wrap_img;
 </pre></div>
 
     </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Printing a problem
+&lt;div class="problem_content" role="problem"&gt;
+&lt;p&gt;Writing down the numbers which have a digit sum of 10 in ascending order, we get:
+$19, 28, 37, 46,55,64,73,82,91,109, 118,\dots$&lt;/p&gt;
+&lt;p&gt;
+Let $f(n,m)$ be the $m^{\text{th}}$ occurrence of the digit sum $n$. For example, $f(10,1)=19$, $f(10,10)=109$ and $f(10,100)=1423$.&lt;/p&gt;
+&lt;p&gt;
+Let $\displaystyle S(k)=\sum_{n=1}^k f(n^3,n^4)$. For example $S(3)=7128$ and $S(10)\equiv 32287064 \mod 1\,000\,000\,007$.&lt;/p&gt;
+&lt;p&gt;
+Find $S(10\,000)$ modulo $1\,000\,000\,007$.&lt;/p&gt;
+&lt;/div&gt;
+</pre>
+</div>
+</div>
+
 </div>
 </div>
 
