@@ -127,7 +127,7 @@ exclude:
 
 # Github and twitter are optional:
 minima:
-L
+
   #  social_links:
   #    twitter: NighthawkCoding
   #    github: nighthawkcoders
