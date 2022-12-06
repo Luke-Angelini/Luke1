@@ -544,8 +544,12 @@ Break: stop the loop</p>
 
 <span class="n">inp</span> <span class="o">=</span> <span class="nb">input</span><span class="p">()</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
 
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">words</span><span class="p">:</span>
-    <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">inp</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">inp</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="n">words</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="n">n</span><span class="p">[</span><span class="mi">0</span><span class="p">]:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -558,32 +562,11 @@ Break: stop the loop</p>
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-p
-q
-r
-s
-t
-u
-v
-w
-x
-y
-z
+<pre>luke
+lima
+uniform
+kilo
+echo
 </pre>
 </div>
 </div>
