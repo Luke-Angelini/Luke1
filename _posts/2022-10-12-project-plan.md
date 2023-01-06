@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Planning out our program design"
-categories: [markdown, week 7]
+categories: [markdown, week-07]
 title: "Program Design and Development"
 ---
 

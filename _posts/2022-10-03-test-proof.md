@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Proof that I completed this week's College Board tests"
-categories: [markdown, week 6]
+categories: [markdown, week-06]
 title: "AP Classroom Tests"
 ---
 

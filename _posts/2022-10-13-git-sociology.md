@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Goals for team programming habits"
-categories: [markdown, week 7]
+categories: [markdown, week-07]
 title: "Git Sociology"
 ---
 

@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "A brief description of our scrum team and our work processes"
-categories: [markdown, week 5]
+categories: [markdown, week-05]
 title: "Scrum Team Roles"
 ---
 

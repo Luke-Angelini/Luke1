@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Notes for program purpose
-categories: [markdown, Week 5]
+categories: [markdown, week-05]
 title: Collegeboard Program Purpose and Project Ideas
 ---
 

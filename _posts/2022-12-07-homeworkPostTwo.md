@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Proof of Grading for Week 2"
-categories: [markdown, week 15]
+categories: [markdown, week-15]
 title: "Unit 3 Week 2 Grading"
 ---
 

@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Using HTML with Javascript
-categories: [markdown, Week 5]
+categories: [markdown, week-05]
 title: HTML and Javascript
 ---
 

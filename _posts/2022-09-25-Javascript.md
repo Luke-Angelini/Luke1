@@ -5,7 +5,7 @@ title: Javascript
 toc: true 
 badges: true
 comments: true
-categories: [jupyter, Week 5]
+categories: [jupyter, week-05]
 nb_path: _notebooks/2022-09-25-Javascript.ipynb
 layout: notebook
 ---
