@@ -5,7 +5,7 @@ title: Tool Check
 toc: true 
 badges: true
 comments: true
-categories: [jupyter, Week 13]
+categories: [jupyter, week-13]
 nb_path: _notebooks/2022-08-28-toolcheck.ipynb
 layout: notebook
 ---
