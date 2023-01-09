@@ -6,7 +6,7 @@ categories: [markdown, week-17]
 title: "Item Drop Table"
 ---
 
-| Entity  | Item Dropped (Common Drops)  | Amount  | Picture  |
+| Entity  | Item(s) Dropped (Common Drops)  | Amount  | Picture  |
 |---|---|---|---|
 | Creeper  | Gunpowder  | 0-2  | ![]({{ site.baseurl }}/images/minecraftCreeper.png) |
 | Skeleton  | Arrow, Bone   | 0-2, 0-2  | ![]({{ site.baseurl }}/images/minecraftSkeleton.png) |
