@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Luke Angelini's Magic: The Gathering Limited Record"
-categories: [markdown, week 4]
+categories: [markdown, week-04]
 title: "Collaboration Notes"
 ---
 

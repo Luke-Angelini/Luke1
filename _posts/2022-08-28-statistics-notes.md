@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "List of notes/vocab for my statistics class."
-categories: [markdown, week 1]
+categories: [markdown, week-01]
 title: "Statistics Notes"
 ---
 

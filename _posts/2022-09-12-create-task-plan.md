@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Planning for the final class create task."
-categories: [markdown, week 3]
+categories: [markdown, week-03]
 title: "Create Task Planning"
 ---
 ## Initial Idea
