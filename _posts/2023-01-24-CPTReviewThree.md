@@ -35,3 +35,13 @@ title: "CPT Scoring 3"
 | 4 | 1/1 | 0/1 | Shows a code segment including a procedure with information on all the states and a sefment where it is called. |
 | 5 | 0/1 | 0/1 | The response code includes sequencing with updateScreen and selection with if statements but does not include any kind of iteration. |
 | 6 | 0/1 | 0/1 | Response describes operations performed by the user and not any actual paramaters being called. |
+
+# 4th Video Scoring
+
+| Row | Student Score | College Board Score | Explanation |
+| 1 | 1/1 | 1/1 | Video demonstrates program running with purpose being to "lessen boredom." The a and d keys are shown to be the input and the boat's movement is the output. |
+| 2 | 1/1 | 1/1 | Two code segments are shown one of which shows code from the list fishysegments being used. |
+| 3 | 1/1 | 1/1 | The list mentions manages complexity storing number of fish and type of fish caught. |
+| 4 | 1/1 | 1/1 | The student developed algorithm clone+movement+range uses 5 parameters. |
+| 5 | 1/1 | 1/1 | The algorithm includes sequencing, selection in an if statement, and iteration in a for loop. |
+| 6 | 0/1 | 0/1 | Arguments were not described passing through parameters. |
