@@ -24,3 +24,13 @@ I still don't know how to do most of the things I'll need to be able to do for t
 From there I have an idea of what I need to do for the first feature. I'll have to collect the data for posts with an input system and then store the data about posts (likes, dislikes, and the content of a post) with a table. Then the content of the posts will need to be displated on the main page.
 
 For the additional feature I was thinking of calling on an API to get the random text so I'll need to learn how to use an API and ideally how to make one so that I can make a list of random texts to use.
+
+# Task 1:
+
+Work on frontend of website.
+
+Theme: Movie Voting
+
+Title: Best Films
+
+Figure out aesthetics. Include pictures, what posts will look like etc.
