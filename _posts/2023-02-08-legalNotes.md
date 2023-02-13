@@ -44,4 +44,5 @@ Music, Applications, Terms of Service: Digital rights for content produced.
 2. I think that I am relatively secure in the information I give out. I do have an Instagram account so information like name, age, and residence are on the internet. However I am very secure with other information and do not use any other social media sites.
 3. A goode passwords includes a mix of letters, numbers, and special characters and is relatively long. A password like this will be difficult to guess.
 4. Assymetric encryption uses a public key which multiple people have access to to encrypt the information and a private key to decrypt it. Symmetric encryption uses only one secret key is used for both encryption and decryption.
-5. 
+5. We aysymmetric encryption because we used one key which was a class key.
+6. I was asked for an email by a website once and input it without thinking why it was needed. Because of this I ended up getting spam emails. Other forms of phishing scams include emails pretending to be corporations like PayPal or Amazon and asking for your account information.
