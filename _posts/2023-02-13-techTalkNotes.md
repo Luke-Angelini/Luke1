@@ -1,10 +1,10 @@
-## Notes on Feb 1 Tech Talk 5.3 and 5.4
->
-
-- toc: true 
-- badges: true
-- comments: true
-- categories: [jupyter, week-21]
+---
+toc: true
+layout: post
+description: "5.3-5.4"
+categories: [markdown, week-21]
+title: "Tech Talk Notes"
+---
 
 ## 5.3
 
