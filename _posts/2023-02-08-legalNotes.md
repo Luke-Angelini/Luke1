@@ -6,7 +6,7 @@ categories: [markdown, week-20]
 title: "Tech Talk Notes 3"
 ---
 
-## 5.5 Notes
+## 5.5 Legal and Ethical Concerns Notes
 
 # MIT Licensce: 
 
@@ -26,7 +26,7 @@ Most software is free because everyone in the world contributes to this code and
 
 Music, Applications, Terms of Service: Digital rights for content produced.
 
-## 5.6 Notes
+## 5.6 Safe Computing Notes
 
 - Malware often causes a machine to malfunction. Sometimes money is asked for to fix it-ransomeware.
 

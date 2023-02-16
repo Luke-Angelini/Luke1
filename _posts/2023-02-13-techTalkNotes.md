@@ -6,7 +6,7 @@ categories: [markdown, week-21]
 title: "Tech Talk Notes 2"
 ---
 
-## 5.3
+## 5.3 Computing Bias
 
 # Question 1: What Age Groups Are Facebook and Tiktok?
 
@@ -26,11 +26,11 @@ Companies have gathered much more data for female voices.
 
 Google algorithm for advertisements influences what products are put in front of you and therefore what you are aware of. Can put things that entice you specifically and appeal to your vices when you otherwise wouldn't have that
 
-# Is the HP Computer Racist?
+# Is the HP ComCroputer Racist?
 
 I don't think that the designers of the computers were racist. I can imagine that they aren't exactly thorough testers, but not racist. Mostly I think it is ignorance on the testers part as they probably aren't black and so when they were testing they weren't able to get any testing done with black faces meaning the software doesnt recognize the significantly different facial features.
 
-## 5.4 Hacks
+## 5.4 Crowdsourcing
 
 # Crowdsource Project
 
