@@ -6,8 +6,8 @@ categories: [markdown, week-24]
 title: "Final Peer Grade"
 ---
 
-| Scores | Trey | Abdullash | Me |
-| | 11/15 | 8/15 | 11/15 |
+| Scores | Trey | Abdullash | Me | Average |
+| | 11/15 | 8/15 | 11/15 | 10/15 |
 
 ### My Grading
 
