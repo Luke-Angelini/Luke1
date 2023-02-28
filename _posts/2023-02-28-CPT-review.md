@@ -30,9 +30,9 @@ The data the list contains is important as it is what the program displays throu
 # 3.b.v.
 Witbout the movies list the data will not be displayed together with the reason and the movie title.
 
-![]({{ site.baseurl }}/images/movies1.png)
+![]({{ site.baseurl }}/images/movies1.PNG)
 
-![]({{ site.baseurl }}/images/movies2.png)
+![]({{ site.baseurl }}/images/movies2.PNG)
 
 # 3.c - 3.d
 
