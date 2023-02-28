@@ -6,8 +6,25 @@ categories: [markdown, week-24]
 title: "Final Peer Grade"
 ---
 
-| Scores | Trey | Abdullash | Me | Average |
+| Scores | Trey | Abdullah | Me | Average |
 | | 11/15 | 8/15 | 11/15 | 10/15 |
+| Night at the Museum | 4 | 4 | 4| 4 |
+| Team Project Quality | 1 | 1 | 1| 1 |
+| Individual UI Validated/Cleaned | 0 | 0 | 0 | 0 |
+| Individual UI contains actions for Create, Read | 1 | 1 | 1 | 1 |
+| Individual UI contains actions for Update, Delete | 0 | 0 | 0 | 0 |
+| Observe comments in every function | 1 | 1 | 1 | 1 |
+| observe if  Individual API handles error conditions | 0 | 0 | 0 | 0 |
+| observe if Individual API contains GET and POST methods 0 | 0 | 0 | 0 |
+| observe that Individual code contains database operations that support Create, Read | 1 | 1 | 1 | 1 |
+| observe that Individual code contains database operations that support Update, Delete | 0 | 0 | 0 | 0 |
+| Team Review | 1 | 1 | 1 | 1 |
+| Analytics 0 | .5 | .5 | .33 |
+| Review Ticket 0 | .5 | .5 | .33 |
+| Runtime Links | 0 | 0 | 0 | 0 |
+| Technical Achievements | 0 | 0 | 0 | 0 |
+| Video | 0 | .5 | .5 | .33 |
+| Guides for Review | 0 | .5 | .5 | .33 |
 
 ### My Grading
 
@@ -59,7 +76,7 @@ He participated because he did it all. 1/1
 ## Analytics
 Made 2 commits 0/3
 ## Total Points
-8/15
+9/15
 
 ### Trey's Grading
 
