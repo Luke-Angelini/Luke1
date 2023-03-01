@@ -9,15 +9,17 @@ title: "Final Peer Grade"
 | Scores | Trey | Abdullah | Me | Average |
 | | 11/15 | 8/15 | 11/15 | 10/15 |
 | Night at the Museum | 4 | 4 | 4| 4 |
-| Team Project Quality | 1 | 1 | 1| 1 |
-| Individual UI Validated/Cleaned | 0 | 0 | 0 | 0 |
-| Individual UI contains actions for Create, Read | 1 | 1 | 1 | 1 |
-| Individual UI contains actions for Update, Delete | 0 | 0 | 0 | 0 |
-| Observe comments in every function | 1 | 1 | 1 | 1 |
-| observe if  Individual API handles error conditions | 0 | 0 | 0 | 0 |
-| observe if Individual API contains GET and POST methods | 0 | 0 | 0 | 0 |
-| observe that Individual code contains database operations that support Create, Read | 1 | 1 | 1 | 1 |
-| observe that Individual code contains database operations that support Update, Delete | 0 | 0 | 0 | 0 |
+| Runtime: Team Project Quality | 1 | 1 | 1| 1 |
+| Runtime: Individual UI Validated/Cleaned | 0 | 0 | 0 | 0 |
+| RuntimeIndividual UI contains actions for Create, Read | 1 | 1 | 1 | 1 |
+| Runtime: Individual UI contains actions for Update, Delete | 0 | 0 | 0 | 0 |
+| Runtime Total | 2/4 | 2/4 | 2/4 | 2/4 |
+| Code Review: Observe comments in every function | 1 | 1 | 1 | 1 |
+| Code Review: observe if  Individual API handles error conditions | 0 | 0 | 0 | 0 |
+| Code Review: observe if Individual API contains GET and POST methods | 0 | 0 | 0 | 0 |
+| Code Review: observe that Individual code contains database operations that support Create, Read | 1 | 1 | 1 | 1 |
+| Code Review: observe that Individual code contains database operations that support Update, Delete | 0 | 0 | 0 | 0 |
+| Code Review Total | 2/5 | 2/5 | 2/5 | 2/5 |
 | Team Review | 1 | 1 | 1 | 1 |
 | Analytics | 0 | .5 | .5 | .33 |
 | Review Ticket | 0 | .5 | .5 | .33 |
