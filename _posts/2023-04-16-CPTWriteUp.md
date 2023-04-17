@@ -6,7 +6,7 @@ categories: [markdown, week-29]
 title: "CPT Write Up"
 ---
 
-3. a. 
+3 a. 
 
 - i. The program is meant to allow users to write about their opinions on their favorite movies by letting users post movies and their thoughts on them
 
@@ -14,7 +14,7 @@ title: "CPT Write Up"
 
 - iii. The inputs of adding a movie title and commentary create the content that is displayed as the output in the posts once the "Show Movies" text is clicked.
 
-3. b. 
+3 b. 
 
 - i. 
 ![]({{ site.baseurl }}/images/codebi-1.PNG)
@@ -29,7 +29,7 @@ title: "CPT Write Up"
 
 - v. The list helps manage complexity in the program by creating a database from which each movie and its commentary can be accessed and displayed. This program could also be written as a dictionary with the movie title being the key and the commentary being the value, however by writing it as a list with multiple objects stored inside it allows for multiple comments to be added for the same movie, as this way we don't have to worry about having multiple keys with the same value in one dictionary.
 
-3. c. 
+3 c. 
 
 - i. 
 ![]({{ site.baseurl }}/images/codeci.PNG)
@@ -41,7 +41,7 @@ title: "CPT Write Up"
 
 - iv. The procedure first uses selection to check to see if the user has added a movie to the 'movies' list. If they have not, a message is displayed notifying them of this. If they have, the program then displays a message telling them their movies are displayed below. Along with this message, the program first sequentially defines a variable, i, to count the number of movies in the 'movies' list. then it uses a for loop to iterate through each movie in the list and accesses the text of its movie title and commentary to be displayed in a newly created div element. This process is repeated until a div element has been created for each movie in the 'movies' list.
 
-3. d. 
+3 d. 
 
 - i. 
 
